@@ -2,7 +2,8 @@
 <h1 align="center">¡Hola, soy Juan Serrano Castro! 👋</h1>
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-remote-work-6776709-5591085.png" width="400"/>
+  <img src="![software-1-e1550080087611-800x400](https://github.com/user-attachments/assets/4fb1e3aa-4b82-4e41-8e23-6cd5be85c620)
+" width="400"/>
 </p>
 
 ---
