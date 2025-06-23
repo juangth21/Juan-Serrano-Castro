@@ -1,4 +1,4 @@
-# Juan-Serrano-Castro
+# juangth21
 <h1 align="center">¡Hola, soy Juan Serrano Castro! 👋</h1>
 
 <p align="center">
