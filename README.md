@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🎓 Desarrollador de Aplicaciones Multiplataforma apasionado por la programación y por descubrir nuevas tecnologías.
+- 🎓 Desarrollador de Aplicaciones Multiplataforma, apasionado por la tecnología.
 - 🚀 Siempre en constante aprendizaje y buscando mejorar mis habilidades en desarrollo de software.
 
 ---
